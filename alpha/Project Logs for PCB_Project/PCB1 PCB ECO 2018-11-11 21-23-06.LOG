@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=P1.4 Pin=LS-2
+Removed Member From Class: ClassName=Sheet1 Member=LS
+Added Component: Designator=U1(BEEP 7.6x12x9.5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ·äÃùÆ÷

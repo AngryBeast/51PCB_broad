@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC Pin=MCU-40
+Removed Pin From Net: NetName=VCC Pin=R0-1
+Change Component Designator: OldDesignator=SMG NewDesignator=SMG?
+Added Component: Designator=J15(HDR-1x2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S(SS-12D10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P0.1 Pin=J15-1
+Added Pin To Net: NetName=P0.0 Pin=J15-2
+Added Pin To Net: NetName=VCC Pin=S-1
+Added Pin To Net: NetName=NetMCU_40 Pin=MCU-40
+Added Pin To Net: NetName=NetMCU_40 Pin=R0-1
+Added Pin To Net: NetName=NetMCU_40 Pin=S-2
+Added Net: Name=NetMCU_40
+Added Member To Class: ClassName=Sheet1 Member=Component J15 CN2
+Added Member To Class: ClassName=Sheet1 Member=Component S 
+Added Room: Name=Sheet1

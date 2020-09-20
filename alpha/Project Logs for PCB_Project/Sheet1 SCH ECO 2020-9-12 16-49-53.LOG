@@ -1,0 +1,13 @@
+Change Component Comment: Designator=数码管 Old Comment= New Comment=0.56寸1位共阳数码管
+Change Component Comment: Designator=蜂鸣器 Old Comment= New Comment=蜂鸣器
+Change Component Designator: OldDesignator=CH340 NewDesignator=J4
+Change Component Designator: OldDesignator=DHT11 NewDesignator=J13
+Change Component Designator: OldDesignator=IIC NewDesignator=J11
+Change Component Designator: OldDesignator=MCU NewDesignator=U?
+Change Component Designator: OldDesignator=SPI NewDesignator=J12
+Change Component Designator: OldDesignator=串口 NewDesignator=J5
+Change Component Designator: OldDesignator=数码管 NewDesignator=SMG
+Change Component Designator: OldDesignator=温度传感器 NewDesignator=J9
+Change Component Designator: OldDesignator=矩阵按键 NewDesignator=J7
+Change Component Designator: OldDesignator=红外接收器 NewDesignator=J8
+Change Component Designator: OldDesignator=蜂鸣器 NewDesignator=U1

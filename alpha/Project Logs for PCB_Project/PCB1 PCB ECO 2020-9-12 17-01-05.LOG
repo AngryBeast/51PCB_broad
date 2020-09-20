@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=D-K
+Removed Member From Class: ClassName=Sheet1 Member=D
+Added Component: Designator=LED(LED-5mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "插件LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED-2
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=NetLED_1 Pin=R-2
+Added Net: Name=NetLED_1
+Added Member To Class: ClassName=Sheet1 Member=Component LED 红色
+Added Room: Name=Sheet1

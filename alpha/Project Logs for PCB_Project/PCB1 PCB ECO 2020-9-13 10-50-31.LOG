@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J14 Old Footprint=HDR-1x2 New Footprint=Pin HDR2X2/2.54mm-S
+Added Pin To Net: NetName=P0.0 Pin=J14-2
+Added Pin To Net: NetName=P0.1 Pin=J14-4
+Added Pin To Net: NetName=NetJ14_3 Pin=J14-3
+Added Pin To Net: NetName=NetJ14_3 Pin=R5.1-2
+Added Net: Name=NetJ14_3
+Added Room: Name=Sheet1

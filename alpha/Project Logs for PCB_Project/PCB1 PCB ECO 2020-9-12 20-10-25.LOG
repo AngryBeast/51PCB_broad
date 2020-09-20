@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Pin From Net: NetName=P2.4 Pin=SMG-1
+Removed Pin From Net: NetName=P2.3 Pin=SMG-2
+Removed Pin From Net: NetName=P2.2 Pin=SMG-4
+Removed Pin From Net: NetName=P2.7 Pin=SMG-5
+Removed Pin From Net: NetName=P2.1 Pin=SMG-6
+Removed Pin From Net: NetName=P2.0 Pin=SMG-7
+Removed Pin From Net: NetName=P2.5 Pin=SMG-9
+Removed Pin From Net: NetName=P2.6 Pin=SMG-10
+Change Component Designator: OldDesignator=MCU NewDesignator=U?
+Change Component Designator: OldDesignator=R5 NewDesignator=R5.1
+Added Component: Designator=J14(HDR-1x2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5.2(R 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=SMG?(SMG 0.56-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "0.56寸2位共阳"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P2.2 Pin=SMG?-1
+Added Pin To Net: NetName=P2.7 Pin=SMG?-2
+Added Pin To Net: NetName=P2.4 Pin=SMG?-3
+Added Pin To Net: NetName=P2.3 Pin=SMG?-4
+Added Pin To Net: NetName=P2.6 Pin=SMG?-5
+Added Pin To Net: NetName=P2.5 Pin=SMG?-6
+Added Pin To Net: NetName=P2.1 Pin=SMG?-9
+Added Pin To Net: NetName=P2.0 Pin=SMG?-10
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ14_1 Pin=R5.2-2
+Added Net: Name=NetJ14_1
+Added Pin To Net: NetName=NetJ14_2 Pin=J14-2
+Added Pin To Net: NetName=NetJ14_2 Pin=R5.1-2
+Added Net: Name=NetJ14_2
+Added Pin To Net: NetName=NetR5.1_1 Pin=R5.1-1
+Added Pin To Net: NetName=NetR5.1_1 Pin=SMG?-7
+Added Net: Name=NetR5.1_1
+Added Pin To Net: NetName=NetR5.2_1 Pin=R5.2-1
+Added Pin To Net: NetName=NetR5.2_1 Pin=SMG?-8
+Added Net: Name=NetR5.2_1
+Added Member To Class: ClassName=Sheet1 Member=Component J14 CN2
+Added Member To Class: ClassName=Sheet1 Member=Component R5.2 1K
+Added Member To Class: ClassName=Sheet1 Member=Component SMG? 0.56寸2位共阳数码管
+Added Room: Name=Sheet1

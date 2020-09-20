@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=P1.1 Pin=DOWN-2
+Removed Pin From Net: NetName=3 Pin=E1-2
+Removed Pin From Net: NetName=2 Pin=E2-1
+Removed Pin From Net: NetName=3 Pin=E2-2
+Removed Pin From Net: NetName=7 Pin=E3-1
+Removed Pin From Net: NetName=3 Pin=E3-2
+Removed Pin From Net: NetName=3 Pin=E4-2
+Removed Pin From Net: NetName=3 Pin=INPUT L-1
+Removed Pin From Net: NetName=3 Pin=INPUT R-1
+Removed Pin From Net: NetName=3 Pin=OUTPUT L-1
+Removed Pin From Net: NetName=3 Pin=OUTPUT R-1
+Removed Pin From Net: NetName=P1.0 Pin=UP-2
+Removed Member From Class: ClassName=Sheet1 Member=E2
+Removed Member From Class: ClassName=Sheet1 Member=E3
+Change Component Comment : Designator=E1 Old Comment=10UF/16V New Comment=2.2UF
+Change Component Comment : Designator=E4 Old Comment=10UF/16V New Comment=2.2UF
+Added Component: Designator=BIG E5(CAP 3.5*8*11.5 - BK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CC 2.2*5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插瓷片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=6 Pin=BIG E5-1
+Added Pin To Net: NetName=3 Pin=BIG E5-2
+Added Pin To Net: NetName=3 Pin=C4-1
+Added Pin To Net: NetName=6 Pin=C4-2
+Added Pin To Net: NetName=2 Pin=OUTPUT L-1
+Added Pin To Net: NetName=7 Pin=OUTPUT R-1
+Added Pin To Net: NetName=NetE1_2 Pin=E1-2
+Added Pin To Net: NetName=NetE1_2 Pin=INPUT L-1
+Added Net: Name=NetE1_2
+Added Pin To Net: NetName=NetE4_2 Pin=E4-2
+Added Pin To Net: NetName=NetE4_2 Pin=INPUT R-1
+Added Net: Name=NetE4_2
+Added Member To Class: ClassName=Sheet1 Member=Component BIG E5 1000UF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 0.1UF
+Added Member To Class: ClassName=Sheet1 Member=Component J1 CN9
+Added Member To Class: ClassName=Sheet1 Member=Component J2 CN20
+Added Room: Name=Sheet1

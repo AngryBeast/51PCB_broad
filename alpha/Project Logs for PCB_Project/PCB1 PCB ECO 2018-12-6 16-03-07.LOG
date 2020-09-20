@@ -1,0 +1,143 @@
+Removed Pin From Net: NetName=P0.0 Pin=beep-2
+Removed Pin From Net: NetName=VCC Pin=J3-1
+Removed Pin From Net: NetName=P3.1 Pin=J3-3
+Removed Pin From Net: NetName=P3.0 Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J3-5
+Removed Pin From Net: NetName=P0.1 Pin=JP1-2
+Removed Pin From Net: NetName=P0.2 Pin=JP2-2
+Removed Pin From Net: NetName=P0.3 Pin=JP3-2
+Removed Pin From Net: NetName=P0.4 Pin=JP4-2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Member From Class: ClassName=Sheet1 Member=beep
+Removed Member From Class: ClassName=Sheet1 Member=J3
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Added Component: Designator=C5(C 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插瓷片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插瓷片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP6(HDR-1X4_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP7(HDR-1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LCD?(LCD-1602)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "LCD 1602"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-5mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "插件LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-5mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "插件LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RS 1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RS 1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RS 1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=RP1(3296W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "插件电位器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(TSW DIP-6*6*5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插6x6轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(TSW DIP-6*6*5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插6x6轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=P0.0 Pin=JP1-2
+Added Pin To Net: NetName=P0.1 Pin=JP2-2
+Added Pin To Net: NetName=P0.2 Pin=JP3-2
+Added Pin To Net: NetName=P0.3 Pin=JP4-2
+Added Pin To Net: NetName=P3.1 Pin=JP6-1
+Added Pin To Net: NetName=P3.0 Pin=JP6-2
+Added Pin To Net: NetName=GND Pin=JP6-3
+Added Pin To Net: NetName=VCC Pin=JP6-4
+Added Pin To Net: NetName=VCC Pin=JP7-1
+Added Pin To Net: NetName=GND Pin=JP7-3
+Added Pin To Net: NetName=GND Pin=LCD?-1
+Added Pin To Net: NetName=VCC Pin=LCD?-2
+Added Pin To Net: NetName=P2.6 Pin=LCD?-4
+Added Pin To Net: NetName=P2.5 Pin=LCD?-5
+Added Pin To Net: NetName=P2.7 Pin=LCD?-6
+Added Pin To Net: NetName=P1.0 Pin=LCD?-7
+Added Pin To Net: NetName=P1.1 Pin=LCD?-8
+Added Pin To Net: NetName=P1.2 Pin=LCD?-9
+Added Pin To Net: NetName=P1.3 Pin=LCD?-10
+Added Pin To Net: NetName=P1.4 Pin=LCD?-11
+Added Pin To Net: NetName=P1.5 Pin=LCD?-12
+Added Pin To Net: NetName=P1.6 Pin=LCD?-13
+Added Pin To Net: NetName=P1.7 Pin=LCD?-14
+Added Pin To Net: NetName=VCC Pin=LCD?-15
+Added Pin To Net: NetName=GND Pin=LCD?-16
+Added Pin To Net: NetName=P0.7 Pin=LED1-2
+Added Pin To Net: NetName=P0.6 Pin=LED2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=P3.7 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=RP1-2
+Added Pin To Net: NetName=P0.4 Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=P0.5 Pin=SW4-1
+Added Pin To Net: NetName=GND Pin=SW4-2
+Added Pin To Net: NetName=NetJP7_2 Pin=JP7-2
+Added Pin To Net: NetName=NetJP7_2 Pin=R7-2
+Added Net: Name=NetJP7_2
+Added Pin To Net: NetName=NetLCD?_3 Pin=LCD?-3
+Added Pin To Net: NetName=NetLCD?_3 Pin=RP1-ADJ
+Added Net: Name=NetLCD?_3
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R4-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R3-1
+Added Net: Name=NetLED2_1
+Added Member To Class: ClassName=Sheet1 Member=Component C5 104
+Added Member To Class: ClassName=Sheet1 Member=Component C6 104
+Added Member To Class: ClassName=Sheet1 Member=Component JP6 HDR-1X4
+Added Member To Class: ClassName=Sheet1 Member=Component JP7 HDR-1X3
+Added Member To Class: ClassName=Sheet1 Member=Component LCD? LCD_1602
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 红色
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 红色
+Added Member To Class: ClassName=Sheet1 Member=Component R3 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component RP1 5K
+Added Member To Class: ClassName=Sheet1 Member=Component SW3 6x6x5
+Added Member To Class: ClassName=Sheet1 Member=Component SW4 6x6x5
+Added Room: Name=Sheet1

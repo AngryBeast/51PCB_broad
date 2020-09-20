@@ -1,0 +1,2 @@
+Remove Pin=J2-10 From Net=VCC
+Remove Pin=MCU-31 From Net=VCC

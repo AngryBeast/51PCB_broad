@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=P0.1 Pin=DOWN-3
+Removed Pin From Net: NetName=P2.6 Pin=LCD?-4
+Removed Pin From Net: NetName=P2.5 Pin=LCD?-5
+Removed Pin From Net: NetName=P2.7 Pin=LCD?-6
+Removed Pin From Net: NetName=P1.0 Pin=LCD?-7
+Removed Pin From Net: NetName=P1.1 Pin=LCD?-8
+Removed Pin From Net: NetName=P1.2 Pin=LCD?-9
+Removed Pin From Net: NetName=P1.3 Pin=LCD?-10
+Removed Pin From Net: NetName=P1.4 Pin=LCD?-11
+Removed Pin From Net: NetName=P1.5 Pin=LCD?-12
+Removed Pin From Net: NetName=P1.6 Pin=LCD?-13
+Removed Pin From Net: NetName=P1.7 Pin=LCD?-14
+Removed Pin From Net: NetName=P0.0 Pin=UP-3
+Added Component: Designator=J4(HDR-1x2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P1.1 Pin=DOWN-3
+Added Pin To Net: NetName=VCC Pin=J4-1
+Added Pin To Net: NetName=3 Pin=J4-2
+Added Pin To Net: NetName=P2.7 Pin=LCD?-4
+Added Pin To Net: NetName=P2.6 Pin=LCD?-5
+Added Pin To Net: NetName=P2.5 Pin=LCD?-6
+Added Pin To Net: NetName=P0.0 Pin=LCD?-7
+Added Pin To Net: NetName=P0.1 Pin=LCD?-8
+Added Pin To Net: NetName=P0.2 Pin=LCD?-9
+Added Pin To Net: NetName=P0.3 Pin=LCD?-10
+Added Pin To Net: NetName=P0.4 Pin=LCD?-11
+Added Pin To Net: NetName=P0.5 Pin=LCD?-12
+Added Pin To Net: NetName=P0.6 Pin=LCD?-13
+Added Pin To Net: NetName=P0.7 Pin=LCD?-14
+Added Pin To Net: NetName=P1.0 Pin=UP-3
+Added Member To Class: ClassName=Sheet1 Member=Component J1 CN9
+Added Member To Class: ClassName=Sheet1 Member=Component J2 CN20
+Added Member To Class: ClassName=Sheet1 Member=Component J4 CN2
+Added Room: Name=Sheet1

@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Added Component: Designator=B1(BEEP 5x9x5.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "蜂鸣器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P1.4 Pin=B1-K
+Added Pin To Net: NetName=NetB1_A Pin=B1-A
+Added Pin To Net: NetName=NetB1_A Pin=R2-1
+Added Net: Name=NetB1_A
+Added Member To Class: ClassName=Sheet1 Member=Component B1 DC5V
+Added Room: Name=Sheet1

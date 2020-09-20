@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Added Component: Designator=beep(BEEP 7.6x12x9.5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P0.0 Pin=beep-2
+Added Pin To Net: NetName=Netbeep_1 Pin=beep-1
+Added Pin To Net: NetName=Netbeep_1 Pin=R2-1
+Added Net: Name=Netbeep_1
+Added Member To Class: ClassName=Sheet1 Member=Component beep ·äÃùÆ÷
+Added Room: Name=Sheet1

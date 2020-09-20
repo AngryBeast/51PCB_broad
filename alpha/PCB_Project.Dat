@@ -1,0 +1,15 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~19|ReportField=ReportTime~14:04:11|ReportField=ReportDate~2018/11/12|ReportField=ReportDateTime~2018/11/12 14:04:11|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/11/12|ReportField=CurrentTime~13:24:46|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\Projects\PCB_Project\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/11/11|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|DC5V|蜂鸣器|B1|BEEP 5x9x5.5|BEEP|1
+2|22P|C-CC|C1, C2|CC 2.2*5|瓷片电容|2
+3|10UF|CAP-E|C3|CAP 3.5*8*11.5 - BK|电解电容|1
+4|CN20|CN20*1|J0, J2|HDR-1X20|CN20|2
+5|CN9|CN9*1|J1|HDR-1X9_Y|CN9|1
+6|CN5|CN5*1|J3|HDR-1X5|CN5|1
+7|CN2|CN2|J5|HDR-1x2|CN2|1
+8|HDR-1X3|3P接插件|JP1, JP2, JP3, JP4|HDR-1X3|Header 3|4
+9|HDR-1X4|4P接插件|JP5|HDR-1X4_M|Header 4|1
+10|STC89C52RC|STC单片机|MCU|DIP40-600|STC89C52RC|1
+11|10K|R|R1|RS 1/4W|电阻|1
+12|100|R|R2|RS 1/4W|电阻|1
+13||Switch|SW1|SPST-2|SW-PB|1
+14||CRY|Y1|XTAL-49S DIP|晶振|1

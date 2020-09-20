@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=P0.0 Pin=JP1-2
+Removed Pin From Net: NetName=P0.1 Pin=JP2-2
+Removed Pin From Net: NetName=P0.2 Pin=JP3-2
+Removed Pin From Net: NetName=P0.3 Pin=JP4-2
+Added Component: Designator=R2(RS 1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U1(BEEP 7.6x12x9.5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P1.0 Pin=JP1-2
+Added Pin To Net: NetName=P1.1 Pin=JP2-2
+Added Pin To Net: NetName=P1.2 Pin=JP3-2
+Added Pin To Net: NetName=P1.3 Pin=JP4-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 100
+Added Member To Class: ClassName=Sheet1 Member=Component U1 蜂鸣器
+Added Room: Name=Sheet1

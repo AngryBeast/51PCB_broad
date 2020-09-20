@@ -1,0 +1,22 @@
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=SW1-1
+Added Member To Class: ClassName=Sheet1 Member=Component B1 DC5V
+Added Member To Class: ClassName=Sheet1 Member=Component C1 22P
+Added Member To Class: ClassName=Sheet1 Member=Component C2 22P
+Added Member To Class: ClassName=Sheet1 Member=Component C3 10UF
+Added Member To Class: ClassName=Sheet1 Member=Component J0 CN20
+Added Member To Class: ClassName=Sheet1 Member=Component J1 CN9
+Added Member To Class: ClassName=Sheet1 Member=Component J2 CN20
+Added Member To Class: ClassName=Sheet1 Member=Component J3 CN5
+Added Member To Class: ClassName=Sheet1 Member=Component J5 CN2
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 HDR-1X3
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 HDR-1X3
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 HDR-1X3
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 HDR-1X3
+Added Member To Class: ClassName=Sheet1 Member=Component JP5 HDR-1X4
+Added Member To Class: ClassName=Sheet1 Member=Component MCU STC89C52RC
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 100
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 
+Added Room: Name=Sheet1

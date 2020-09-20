@@ -1,0 +1,23 @@
+Added Component: Designator=1602(Fe-HDR1X16/2.54-S)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=1602-1
+Added Pin To Net: NetName=VCC Pin=1602-2
+Added Pin To Net: NetName=P0.7 Pin=1602-3
+Added Pin To Net: NetName=P0.6 Pin=1602-4
+Added Pin To Net: NetName=P0.5 Pin=1602-5
+Added Pin To Net: NetName=P0.4 Pin=1602-6
+Added Pin To Net: NetName=P0.3 Pin=1602-7
+Added Pin To Net: NetName=P0.2 Pin=1602-8
+Added Pin To Net: NetName=P0.1 Pin=1602-9
+Added Pin To Net: NetName=P0.0 Pin=1602-10
+Added Pin To Net: NetName=P2.7 Pin=1602-11
+Added Pin To Net: NetName=P2.6 Pin=1602-12
+Added Pin To Net: NetName=P2.5 Pin=1602-13
+Added Pin To Net: NetName=VCC Pin=1602-15
+Added Pin To Net: NetName=GND Pin=1602-16
+Added Pin To Net: NetName=Net1602_14 Pin=1602-14
+Added Pin To Net: NetName=Net1602_14 Pin=RP1-ADJ
+Added Net: Name=Net1602_14
+Added Member To Class: ClassName=Sheet1 Member=Component 1602 Female HDR1X16
+Added Member To Class: ClassName=Sheet1 Member=Component RP1 502
+Added Room: Name=Sheet1

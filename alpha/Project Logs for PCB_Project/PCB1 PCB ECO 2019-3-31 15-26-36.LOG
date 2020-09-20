@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=6 Pin=BIG E5-1
+Removed Pin From Net: NetName=3 Pin=BIG E5-2
+Removed Pin From Net: NetName=3 Pin=C4-1
+Removed Pin From Net: NetName=6 Pin=C4-2
+Removed Pin From Net: NetName=NetE4_2 Pin=INPUT R-1
+Removed Pin From Net: NetName=P2.7 Pin=LCD?-4
+Removed Pin From Net: NetName=P2.6 Pin=LCD?-5
+Removed Pin From Net: NetName=P2.5 Pin=LCD?-6
+Removed Pin From Net: NetName=P0.7 Pin=LCD?-14
+Removed Pin From Net: NetName=2 Pin=OUTPUT L-1
+Removed Pin From Net: NetName=7 Pin=OUTPUT R-1
+Removed Member From Class: ClassName=Sheet1 Member=BIG E5
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Removed Member From Class: ClassName=Sheet1 Member=INPUT R
+Change Component Footprint: Designator=INPUT L Old Footprint=CN1 New Footprint=HDR-1x2
+Change Component Footprint: Designator=OUTPUT L Old Footprint=CN1 New Footprint=HDR-1x2
+Change Component Footprint: Designator=OUTPUT R Old Footprint=CN1 New Footprint=HDR-1x2
+Change Component Comment : Designator=E1 Old Comment=2.2UF New Comment=10UF/16V
+Change Component Comment : Designator=E4 Old Comment=2.2UF New Comment=10UF/16V
+Change Component Comment : Designator=INPUT L Old Comment=CN1 New Comment=CN2
+Change Component Comment : Designator=OUTPUT L Old Comment=CN1 New Comment=CN2
+Change Component Comment : Designator=OUTPUT R Old Comment=CN1 New Comment=CN2
+Added Component: Designator=E2(CAP 3.5*8*11.5 - BK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E3(CAP 3.5*8*11.5 - BK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=INTPUT R(HDR-1x2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=2 Pin=E2-1
+Added Pin To Net: NetName=7 Pin=E3-1
+Added Pin To Net: NetName=3 Pin=INPUT L-2
+Added Pin To Net: NetName=NetE4_2 Pin=INTPUT R-1
+Added Pin To Net: NetName=3 Pin=INTPUT R-2
+Added Pin To Net: NetName=3 Pin=OUTPUT L-2
+Added Pin To Net: NetName=3 Pin=OUTPUT R-2
+Added Pin To Net: NetName=NetE2_2 Pin=E2-2
+Added Pin To Net: NetName=NetE2_2 Pin=OUTPUT L-1
+Added Net: Name=NetE2_2
+Added Pin To Net: NetName=NetE3_2 Pin=E3-2
+Added Pin To Net: NetName=NetE3_2 Pin=OUTPUT R-1
+Added Net: Name=NetE3_2
+Added Member To Class: ClassName=Sheet1 Member=Component E2 10UF/16V
+Added Member To Class: ClassName=Sheet1 Member=Component E3 10UF/16V
+Added Member To Class: ClassName=Sheet1 Member=Component INTPUT R CN2
+Added Member To Class: ClassName=Sheet1 Member=Component J1 CN9
+Added Member To Class: ClassName=Sheet1 Member=Component J2 CN20
+Added Room: Name=Sheet1
